@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "slider-data-spfx",
+    "libraryId": "165289f9-3073-490d-b8cf-ff7ee49f7cec",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

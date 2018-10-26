@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "slider-data-spfx-client-side-solution",
+    "id": "165289f9-3073-490d-b8cf-ff7ee49f7cec",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/slider-data-spfx.sppkg"
+  }
+}
